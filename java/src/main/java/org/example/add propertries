@@ -1,3 +1,0 @@
-# JWT Configurations
-app.jwt.secret=yourSecretKey
-app.jwt.expiration=86400000  # Token expiration time in milliseconds (1 day)
